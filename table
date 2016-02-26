@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `students` (
+  `number` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `fullname` char(128) NOT NULL DEFAULT '',
+  `password` char(255) NOT NULL DEFAULT '',
+  ) ENGINE=MyISAM  DEFAULT CHARSET=latin1;

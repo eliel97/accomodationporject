@@ -1,0 +1,21 @@
+Here you go Fred.
+
+-> Pires designed the outline, brilliant right?
+-> Its a prototype, here's how it works
+-> The student has to sign up and using their student number, Pires told me that you guys are given student numbers.
+-> The student will use their username and student number to sign up. And use a password.
+-> They will read through the terms and conditions and at the end, If they agree they will be assigned a room.
+-> The student will have to print the webpage and it to go to their room
+-> I've designed it html. I've done all the basics. Everything is there.
+
+Your job is work out everything in php, such as signing up, room alloction, logging out.
+
+The Form tags have all the information you need for your variables, use the ones with the tag ' name= " " ' in the form tags. 
+
+Feel Free to Reorganize anything. I have attached a .sql file that contains all info you need to set up a database.
+The Student Database is real easy.
+The Room database however is not so. I'll call you to explain that one.
+
+But yeah, you can create the database. Feel free to start, read through the forms, the part in the form tag that says "action", use those filenames but feel free to change them. 
+
+Import the Mwanawasa table in mysql and copy the student table in mysql. This is probably confusing right now. I'll explain when I call you, soon, try to see what you can do in the mean time
